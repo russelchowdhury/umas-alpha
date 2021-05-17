@@ -14,3 +14,7 @@ User Endpoint:
 
 http://localhost:8801/api/users Get List
 http://localhost:8801/api/users/{id} Update and/or Delete
+
+h2 database:
+
+http://localhost:8801/h2-console/
